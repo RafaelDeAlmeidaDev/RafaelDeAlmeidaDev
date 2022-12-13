@@ -1,7 +1,7 @@
 ### Olá!!! Sou o Rafael de Almeida
 
 <div align="center">
-  <a href="https://github.com/RafaelDeAlmeidaDevi">
+  <a href="https://github.com/RafaelDeAlmeidaDev">
   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=RafaelDeAlmeidaDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDeAlmeidaDev&layout=compact&langs_count=7&theme=react"/>
 </div>
